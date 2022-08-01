@@ -7,6 +7,13 @@
   - 소스코드를 설정(airbnb, standard, google 등)한 스타일로 자동정렬하고 권장하는 코딩 문법 스타일을 알려줘요.( 같이쓰기 위해서 .vscode폴더에 설정을 넣어놨어요.)
   - 반대로 문법이 안맞다고 계속 에러를 내서 화날때도 있어요.
 
+### git 소스받기
+```bash
+# cmd에서 소스를 받고싶은곳으로 이동 후
+git clone https://github.com/dev-HongCheol/vueQuasarBase1.git
+
+```
+
 ### 의존성 설치
 ```bash
 yarn
